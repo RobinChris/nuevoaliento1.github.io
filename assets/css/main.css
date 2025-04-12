@@ -4700,7 +4700,9 @@ height: 100vh !important;
 
 @media screen and (max-width: 1080px){
 	.NewLogo{
-		width: 80%;
+	width: 80%;
 	}
-	
+	.Heart{
+	height: 120px;
+	}
 }

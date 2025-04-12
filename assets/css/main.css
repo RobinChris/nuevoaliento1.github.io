@@ -4689,7 +4689,7 @@ input, select, textarea {
 	}
 
 #intro{
-height: 100vh;
+height: 100vh !important;
 display: flex;
-align-items: center;
+align-items: center !important;
 }

@@ -4688,7 +4688,7 @@ input, select, textarea {
 
 	}
 
-#intro{
+.intro{
 height: 100vh !important;
 display: flex;
 align-items: center !important;

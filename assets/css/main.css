@@ -4694,8 +4694,14 @@ height: 100vh !important;
     align-items: center !important;
 }
 
-@media screen and (max-width: 980px){
+.Heart{
+	height: 200px;
+	
+}
+
+@media screen and (max-width: 1080px){
 	.NewLogo{
 		width: 80%;
 	}
+	
 }

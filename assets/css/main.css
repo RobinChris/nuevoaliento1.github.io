@@ -3283,6 +3283,12 @@ input, select, textarea {
 
 /* Intro */
 
+
+	.IntroWrapper{
+		display: flex;
+		justify-content: center;
+		align-itmes: center; 
+	}
 	#intro {
 		color: #ffffff;
 		padding: 8rem 4rem 6rem 4rem ;

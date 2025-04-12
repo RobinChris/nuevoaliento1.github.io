@@ -4696,6 +4696,7 @@ height: 100vh !important;
 
 .Heart{
 	height: 120px;
+	margin: 40px;
 }
 
 @media screen and (max-width: 1080px){
@@ -4704,5 +4705,6 @@ height: 100vh !important;
 	}
 	.Heart{
 	height: 120px;
+	margin: 40px;
 	}
 }

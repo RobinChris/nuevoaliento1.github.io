@@ -4695,8 +4695,7 @@ height: 100vh !important;
 }
 
 .Heart{
-	height: 200px;
-	
+	height: 120px;
 }
 
 @media screen and (max-width: 1080px){

@@ -4690,6 +4690,6 @@ input, select, textarea {
 
 .intro{
 height: 100vh !important;
-display: flex;
+display: flex !important;
 align-items: center !important;
 }

@@ -4693,3 +4693,9 @@ height: 100vh !important;
     justify-content: center;
     align-items: center !important;
 }
+
+@media screen and (max-width: 980px){
+	.NewLogo{
+		width: 80%;
+	}
+}
